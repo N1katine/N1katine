@@ -25,3 +25,5 @@ That's my portfolio (or not)
 <br />
 
 #
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?N1katine=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
