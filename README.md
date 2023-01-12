@@ -2,7 +2,7 @@
 
 **`(Cheat Developer, Website Developer)`**
 
-That's my portfolio (or not)
+That's my portfolio (i think)
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
