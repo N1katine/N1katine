@@ -1,7 +1,6 @@
-### Hi there 👋
+### 🚬 N1katine
 
-<!--
-**N1katine/N1katine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'(Cheat Developer, Website Developer)'**
 
 Here are some ideas to get you started:
 
