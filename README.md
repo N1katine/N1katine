@@ -1,8 +1,8 @@
 ### 🚬 N1katine
 
-**`(Cheat Developer, Website Developer)`**
+<b>That's my portfolio (i think)<b/>
 
-That's my portfolio (i think)
+**`(Cheat Developer, Website Developer)`**
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
