@@ -1,6 +1,6 @@
 ### 🚬 N1katine
 
-**`(Cheat Developer, Website Developer)`**
+**`(Cheat Developer, Website Developer, Random Video Creator)`**
 
 That's my portfolio (or not)
 
