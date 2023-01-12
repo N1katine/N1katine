@@ -4,8 +4,6 @@
 
 That's my portfolio (or not)
 
-[youtube] https://www.youtube.com/channel/UCFH-OHKh95xsXMn1G_KX9GQ
-
 -----
 
 ### Languages
