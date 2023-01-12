@@ -25,7 +25,7 @@ That's my portfolio (or not)
 <br />
 
 #
-
+<!--
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=n1katine&show_icons=true&theme=dark"
@@ -39,3 +39,4 @@ That's my portfolio (or not)
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1katine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
