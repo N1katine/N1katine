@@ -1,6 +1,6 @@
 ### 🚬 N1katine
 
-<b>That's my portfolio (i think)<b/>
+<b> That's my portfolio (i think) <\b>
 
 **`(Cheat Developer, Website Developer)`**
 
