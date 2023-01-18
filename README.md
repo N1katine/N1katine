@@ -2,7 +2,7 @@
 
 _That's my portfolio (i think)_
 
-**`(Cheat Developer, Web-Developer)`**
+**`(Cheat Developer, Web-Developer, 3D Designer)`**
 
 -----
 
