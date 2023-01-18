@@ -4,9 +4,6 @@ _That's my portfolio (i think)_
 
 **`(Cheat Developer, Web-Developer)`**
 
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
-
 -----
 
 ### 🧠 Languages
