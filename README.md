@@ -4,7 +4,7 @@
 
 _Multi-disciplinary Developer_
 
-**`Cheat Developer • Web Developer • 3D Designer`**
+**`Cheat Developer • FullStack Developer • 3D Designer`**
 
 </div>
 
@@ -65,7 +65,7 @@ _Multi-disciplinary Developer_
 
 ### Expertise Areas
 
-**Game Hacking** ┃ **Web Development** ┃ **3D Modeling** ┃ **Reverse Engineering**
+**Game Hacking** ┃ **FullStack Development** ┃ **3D Modeling** ┃ **Reverse Engineering**
 
 </div>
 <!--
