@@ -9,7 +9,10 @@ _Multi-disciplinary Developer_
   Building robust web applications, exploring the depths of reverse engineering, and creating 3D visual experiences. Passionate about game hacking and low-level system mechanics.
 </p>
 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=N1katine&label=Profile+Views&color=111111&style=for-the-badge"/>
+</p>
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <br>
 
