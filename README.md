@@ -63,18 +63,6 @@ outside in. Blender is where the visuals come from.
 
 </div>
 
-<div align="center">
-<h3>Statistics</h3>
-</div>
-
----
-
-<div align="center">
-
-<img alt="Most used languages" height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=N1katine&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-
-</div>
-
 <!--⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
               ⠙⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀
                   ⠀⠉⠉⠛⠻⣿⣿⣿⡿⠟⠉⠀⠀⠀
